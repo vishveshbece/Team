@@ -233,6 +233,8 @@ MIT License — see `LICENSE` file.
 
 * **Deep Learning Engineer:** Jaiwant D
 * **Data Pipeline:** Vishvesh B
+* **Dataset Extraction:** Venkadalakshmi R
+* **VLSI Enthusiast:** Shandini M
 
 Built with ❤️ using PyTorch and ONNX.
 
