@@ -6,6 +6,7 @@
 [![Status](https://img.shields.io/badge/Status-Research_Prototype-blue.svg?style=for-the-badge)]()
 
 > **A high-throughput computer vision pipeline optimized for Industry 4.0 semiconductor defect detection, leveraging MobileNetV3 and super-convergence training strategies.**
+> DATASET LINK: https://drive.google.com/file/d/1qOoRbfl7UOKl3At-ZgJiwWrNlG-Rgs-c/view?usp=sharing
 
 ---
 
@@ -60,16 +61,6 @@ Balanced_Dataset/
     ├── Clean/
     ├── Crack/
     └── ...
-```
-
-
-
-### Google Drive dataset link
-
-Upload your dataset to Google Drive and replace the placeholder below with your folder or file share link.
-
-```
-________________________DAtaset Link________________
 ```
 ---
 
